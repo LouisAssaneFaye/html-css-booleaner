@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h3{
+    margin-bottom: 13.5px;
+}
+
 .blue{
     color: rgb(33, 131, 217);
 }
