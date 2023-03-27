@@ -11,3 +11,19 @@
 .grigio{
     color: rgb(171, 171, 171);
 }
+
+.smallest-text{
+    font-size: 13px;
+}
+
+section{
+    margin-bottom: 30px;
+}
+
+footer{
+    margin-top: 35px;
+}
+
+main{
+    margin-top: 30px;
+}
